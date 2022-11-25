@@ -1,0 +1,34 @@
+{
+    "login": [
+        {
+            "id": 1,
+            "username": "user1@gmail.com",
+            "password": "12345678",
+            "full_name": "Tran Van Anh"
+        },
+        {
+            "id": 2,
+            "username": "user2@gmail.com",
+            "password": "12345678",
+            "full_name": "Tran Van Thien"
+        },
+        {
+            "id": 3,
+            "username": "user3@gmail.com",
+            "password": "12345678",
+            "full_name": "Tran Van Tuan"
+        },
+        {
+            "id": 4,
+            "username": "user4@gmail.com",
+            "password": "12345678",
+            "full_name": "Doan Tuan Thao"
+        },
+        {
+            "id": 5,
+            "username": "user5@gmail.com",
+            "password": "12345678",
+            "full_name": "Ha Van Cuong"
+        }
+    ]
+}
