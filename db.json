@@ -30,5 +30,12 @@
             "password": "12345678",
             "full_name": "Ha Van Cuong"
         }
+    ],
+    "Checkin": [
+        {
+            "id": 1,
+            "status": "",
+            "message": ""
+        }
     ]
 }
